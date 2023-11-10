@@ -1,6 +1,6 @@
 # `python_package_template`
 
-Description ...
+Simple minimal python package template.
 
 ## Usage
 
